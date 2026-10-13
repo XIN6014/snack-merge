@@ -1,0 +1,16 @@
+# 原始素材与备份（不入库）
+art_src/
+notes/
+
+# 开发过程产物
+shots/
+dist/
+dist-cos/
+*.zip
+tools/vendor/
+tools/*.log
+tools/tunnel_*.log
+tools/cloudflared.exe
+node_modules/
+.node_repl_cell_*.mjs
+reaction-v*.html

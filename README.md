@@ -3,7 +3,7 @@
 一款零依赖的 H5 物理合成小游戏：拖动投放小吃，两个相同的合体升级，从汤圆一路合到火锅。
 *A zero-dependency casual merge game built with HTML5 Canvas & Matter.js.*
 
-**在线试玩**：`https://<你的用户名>.github.io/<仓库名>/` ← 部署后替换此处
+**在线试玩**：https://xin6014.github.io/snack-merge/
 
 ![开始界面](screenshots/start.png)
 ![合成中](screenshots/gameplay.png)
